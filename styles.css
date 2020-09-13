@@ -1,0 +1,200 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    background-color:rgb(36, 211, 218);
+    justify-content: space-around;
+    align-items: center;
+    min-height:8vh;
+
+}
+.links{
+    display:flex;
+    justify-content: space-around;
+    width:40%;
+}
+.links li{
+    list-style:none;
+
+}
+.links a{
+    text-decoration:none;
+     color:black;
+     font-weight:bold;
+     
+     letter-spacing: 3px;
+     justify-content:space-around;
+     font-size:18px;
+     font-size:20px;
+     display:flex;
+}
+.logo{
+    font-weight:bold;
+    color:white;
+    letter-spacing: 3px;
+    font-size:28px;
+
+}
+.im{
+    
+    width: 100%;
+    height: 100vh;
+    background-image: url("jananni.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body{
+    background-color:light-blue;
+}
+.a1{
+    font-size:35px;
+    text-transform:uppercase;
+    font-weight:bold;
+    color:black;
+    text-align:center;
+    margin-top:25px;
+    letter-spacing: 2px;
+    background-color:Tomato;
+}
+.a2{
+    color:Tomato;
+    font-size:25px;
+    text-align:center;
+
+}
+footer{
+    margin-top:75px;
+    text-align: center;
+    padding: 3px;
+    background-color:Tomato;
+    color: white;
+  
+
+}
+.fa{
+    width:15%;
+    margin-bottom: 45px;
+}
+.fa-instagram {
+    background: Tomato;
+    color:white ;
+    
+    block-size: 25px;
+    text-decoration-line: none;
+  }
+  .fa-linkedin {
+    background:Tomato;
+    color: white;
+    
+    block-size: 25px;
+    text-decoration-line: none;
+  }
+  .fa-envelope{
+    background: Tomato;
+    color: white ;
+    
+    block-size: 25px;
+    text-decoration-line: none;
+  }
+  .c{
+    font-size:35px;
+    text-transform:uppercase;
+    font-weight:bold;
+    color:white;
+    text-align:auto;
+   
+}
+.s1{
+    font-size:35px;
+    text-transform:uppercase;
+    font-weight:bold;
+    color:Tomato;
+    text-align:center;
+    margin-top:25px;
+    letter-spacing: 2px;
+    background-color:rgb(36, 211, 218);
+}
+.s2{
+    color:green;
+    font-size:25px;
+    text-align:left;
+    font-style: oblique;
+}
+.o1{
+    color:Tomato;
+    font-size:25px;
+    text-align:left;
+    font-style: italic;
+}
+.s3{
+    color:green;
+    font-size:25px;
+    text-align:left;
+    font-style: oblique;
+}
+.s4{
+    color:Tomato;
+    font-size:25px;
+    text-align:left;
+    font-style:italic;
+}
+.q1{
+    font-size:35px;
+    text-transform:uppercase;
+    font-weight:bold;
+    color:Tomato;
+    text-align:center;
+    margin-top:25px;
+    letter-spacing: 2px;
+    background-color:rgb(36, 211, 218);
+}
+
+.q3{color:Tomato;
+    font-size:25px;
+    text-align:left;
+    font-style: italic;
+}
+.q2{
+    color:green;
+    font-size:25px;
+    text-align:left;
+}
+.q4{
+    color:green;
+    font-size:25px;
+    text-align:left;
+}
+.q5{
+    color:Tomato;
+    font-size:25px;
+    text-align:left;
+    font-style: italic;
+
+}
+.s5{
+    color:green;
+    font-size:25px;
+    text-align:left;
+    font-style: oblique;
+}
+.o2{
+    color:Tomato;
+    font-size:25px;
+    text-align:left;
+    font-style: italic;
+}
+.r1{
+    color:green;
+    font-size:25px;
+    text-align:left;
+    font-style: oblique;
+}
+.r2{
+    color:MediumSeaGreen;
+    font-size:25px;
+    text-align:left;
+    font-style: italic;
+}
